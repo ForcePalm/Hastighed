@@ -19,6 +19,7 @@ namespace Hastighed_Converter
 
         private void button2_Click(object sender, EventArgs e)
         {
+            //Konvertere Km/t til M/S (Meter I Sekundet)
             double kmh = Convert.ToDouble(textBox2.Text);
 
             double kmsum = kmh * 0.2778;
@@ -27,6 +28,7 @@ namespace Hastighed_Converter
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //Konvertere M/S til Km/t
             double ms = Convert.ToDouble(textBox1.Text);
 
             double mssum = ms * 3.6;
@@ -35,6 +37,7 @@ namespace Hastighed_Converter
 
         private void button3_Click(object sender, EventArgs e)
         {
+            //lukker programmet
             Application.Exit();
         }
     }

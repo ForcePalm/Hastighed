@@ -97,17 +97,19 @@
             this.label3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label3.Location = new System.Drawing.Point(199, 128);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(0, 17);
+            this.label3.Size = new System.Drawing.Size(52, 17);
             this.label3.TabIndex = 5;
+            this.label3.Text = "0 Km/h";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.label4.Location = new System.Drawing.Point(180, 128);
+            this.label4.Location = new System.Drawing.Point(171, 128);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(0, 17);
+            this.label4.Size = new System.Drawing.Size(44, 17);
             this.label4.TabIndex = 6;
+            this.label4.Text = "0 M/S";
             // 
             // button2
             // 
@@ -123,7 +125,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.Aqua;
+            this.panel1.BackColor = System.Drawing.Color.LawnGreen;
             this.panel1.Controls.Add(this.label5);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.label3);
@@ -136,7 +138,7 @@
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.LawnGreen;
+            this.panel2.BackColor = System.Drawing.Color.Aquamarine;
             this.panel2.Controls.Add(this.button3);
             this.panel2.Controls.Add(this.label6);
             this.panel2.Controls.Add(this.label4);
