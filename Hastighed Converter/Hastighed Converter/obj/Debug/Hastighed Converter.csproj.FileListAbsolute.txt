@@ -1,0 +1,10 @@
+C:\Users\Force\source\repos\Hastighed Converter\Hastighed Converter\bin\Debug\Hastighed Converter.exe.config
+C:\Users\Force\source\repos\Hastighed Converter\Hastighed Converter\bin\Debug\Hastighed Converter.exe
+C:\Users\Force\source\repos\Hastighed Converter\Hastighed Converter\bin\Debug\Hastighed Converter.pdb
+C:\Users\Force\source\repos\Hastighed Converter\Hastighed Converter\obj\Debug\Hastighed Converter.csprojAssemblyReference.cache
+C:\Users\Force\source\repos\Hastighed Converter\Hastighed Converter\obj\Debug\Hastighed_Converter.Form1.resources
+C:\Users\Force\source\repos\Hastighed Converter\Hastighed Converter\obj\Debug\Hastighed_Converter.Properties.Resources.resources
+C:\Users\Force\source\repos\Hastighed Converter\Hastighed Converter\obj\Debug\Hastighed Converter.csproj.GenerateResource.cache
+C:\Users\Force\source\repos\Hastighed Converter\Hastighed Converter\obj\Debug\Hastighed Converter.csproj.CoreCompileInputs.cache
+C:\Users\Force\source\repos\Hastighed Converter\Hastighed Converter\obj\Debug\Hastighed Converter.exe
+C:\Users\Force\source\repos\Hastighed Converter\Hastighed Converter\obj\Debug\Hastighed Converter.pdb
